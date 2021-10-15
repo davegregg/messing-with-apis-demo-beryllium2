@@ -1,0 +1,55 @@
+GET https://xkcd.com/
+
+###
+
+GET https://nytimes.com/
+
+###
+
+GET https://xkcd.com/s/7d94e0.css
+
+###
+
+GET https://xkcd.com/s/919f27.ico
+
+###
+
+GET https://pokeapi.co/api/v2/pokemon/snorlax
+
+###
+
+GET https://jsonplaceholder.typicode.com/posts/2/comments
+
+###
+
+POST https://jsonplaceholder.typicode.com/users
+
+{
+    "name": "dmg",
+    "username": "dmg",
+    "email": "dmg@kenzie.academy",
+}
+
+###
+
+GET https://xkcd.com/poop
+
+###
+
+https://jsonplaceholder.typicode.com/todos/1
+
+###
+
+https://random-words-api.vercel.app/word
+
+###
+
+https://avatars.dicebear.com/api/human/kj23n4ijfk24hkjn.svg
+
+###
+
+https://imgs.xkcd.com/comics/flag_map_sabotage_2x.png
+
+###
+
+GET https://api.domainsdb.info/v1/info/stat/
